@@ -5,7 +5,7 @@ I am Christopher, currently working as a data scientist at [Evonik Digital GmbH]
 ### :microscope: Interests
 
 * Uncertainty quantification in Deep Learning
-* (Deep) Generative Models
+* Probabilistic ML and (Deep) Generative Models
 * Explainable ML
 * Applications in signal processing, natural language processing and chemistry
 
