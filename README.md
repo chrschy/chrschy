@@ -6,7 +6,7 @@ I am Christopher, currently working as a data scientist at [Evonik Digital GmbH]
 
 * Uncertainty quantification in Deep Learning
 * Probabilistic ML and (Deep) Generative Models
-* Explainable ML
+* Explainable and interpretable ML
 * Applications in signal processing, natural language processing and chemistry
 
 ### :classical_building: Education
