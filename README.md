@@ -1,6 +1,6 @@
 ## Hi there :partying_face:
 
-I am Christopher, currently working as a data scientist at [Evonik Digital GmbH](https://digital.evonik.com/). I have 5+ years experience in machine learning research and enjoy solving challenging problems using the Python ML stack and everyone's favourite deep learning frameworks.
+I am Christopher, currently working as a data scientist at Bayer Crop Science. I have 5+ years experience in machine learning research and enjoy solving challenging problems using the Python ML stack and everyone's favourite deep learning frameworks.
 
 ### :microscope: Interests
 
